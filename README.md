@@ -38,7 +38,7 @@ Run every test in the repo with `pytest`.
 | Day | Topic | Handbook | Status |
 |----:|-------|----------|:------:|
 | 01 | [Python fundamentals: data types, collections, functions, comprehensions](days/day-01-python-fundamentals) | §01 | ✅ |
-| 02 | OOP: classes, inheritance, composition, dataclasses, type hints | §01 | ⬜ |
+| 02 | [OOP: classes, inheritance, composition, dataclasses, type hints](days/day-02-oop-dataclasses) | §01 | ✅ |
 | 03 | Exceptions, custom errors, CSV/JSON files, context managers | §01 | ⬜ |
 | 04 | Iterators, generators, decorators, logging | §01 | ⬜ |
 | 05 | Modules, packages, a small CLI, and pytest | §01 | ⬜ |
